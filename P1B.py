@@ -73,3 +73,27 @@ for funnel_steps in funnel_steps_2:
         print("error in funnel: " + str(funnel_steps))
         print(sys.exc_info())
         raise
+
+0623 result:
+funnel 1A and 2A, platform: app
+进入我的页面:41426
+点击新建洋葱圈:4610
+创建成功:0
+***
+进入我的页面:41426
+点击加入洋葱圈:6891
+加入成功:0
+***
+-------------------------------
+funnel 1B 1C and 2B, platform: web
+进入学习主页:13034
+点击新建洋葱圈:1144
+创建成功:12
+***
+进入个人中心:4723
+点击新建洋葱圈:722
+创建成功:12
+***
+点击加入洋葱圈:433
+加入成功:4
+***

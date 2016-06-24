@@ -74,6 +74,7 @@ for funnel_steps in funnel_steps_2:
         print(sys.exc_info())
         raise
 
+'''
 0623 result:
 funnel 1A and 2A, platform: app
 进入我的页面:41426
@@ -97,3 +98,4 @@ funnel 1B 1C and 2B, platform: web
 点击加入洋葱圈:433
 加入成功:4
 ***
+'''
